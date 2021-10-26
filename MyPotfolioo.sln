@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{F360D485-B198-4675-9812-C7CDC00C01C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{50A2DDE7-4373-4749-B639-81674B013C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{1270DC66-F84B-43D7-909D-1372E1960CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F360D485-B198-4675-9812-C7CDC00C01C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F360D485-B198-4675-9812-C7CDC00C01C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F360D485-B198-4675-9812-C7CDC00C01C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F360D485-B198-4675-9812-C7CDC00C01C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A2DDE7-4373-4749-B639-81674B013C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A2DDE7-4373-4749-B639-81674B013C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A2DDE7-4373-4749-B639-81674B013C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A2DDE7-4373-4749-B639-81674B013C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1270DC66-F84B-43D7-909D-1372E1960CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1270DC66-F84B-43D7-909D-1372E1960CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1270DC66-F84B-43D7-909D-1372E1960CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1270DC66-F84B-43D7-909D-1372E1960CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E76CED8-CF10-42DF-A802-632F212B3EA6}
+	EndGlobalSection
+EndGlobal
